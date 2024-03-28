@@ -52,6 +52,10 @@ Objectives:
 
   Visualizations:
   ![](https://github.com/neharamachandar/neharamachandar.github.io/blob/main/images/G%20vs%20Gb.png)
+  ![](https://github.com/neharamachandar/neharamachandar.github.io/blob/main/images/1.png)
+  ![](https://github.com/neharamachandar/neharamachandar.github.io/blob/main/images/2.png)
+  ![](https://github.com/neharamachandar/neharamachandar.github.io/blob/main/images/Picture5.png)
+  
 
   
 
