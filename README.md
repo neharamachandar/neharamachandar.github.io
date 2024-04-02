@@ -4,7 +4,7 @@
 Masters in Business Analytics 
 
 ### Work Experince:
-Application Development Analyst @ Accenture
+# Application Development Analyst @ Accenture
 
 - Orchestrated SAP GRC access control, reducing security incidents by 20% through proactive vulnerability management
 - Played a pivotal role in DevOps & ERP Go-live, ensuring a smooth transition with minimal downtime of less than 2 hrs. Generated roles, profiles streamlining access management and designed S4 HANA roles 
@@ -15,7 +15,7 @@ Application Development Analyst @ Accenture
 - Delivered clear security briefings to senior management, ensuring alignment with business objectives, resulting in a 15% increase in user satisfaction.
 - Collaborated with developers and IT teams to implement secure access controls within the new ERP system, reducing implementation time by 15%.
 
-Special Projects Analyst @ University of the Pacific
+# Special Projects Analyst @ University of the Pacific
 
 - Harnessed AASHE STARS platform to compile data for 1,600+ sustainability questions, facilitating collaboration and increasing transparency amongst stakeholders by 20%.
 - Leveraged industry research tools and open communication platforms to address concerns and implement solutions, contributing to the organization's silver-grade recognition.
@@ -27,7 +27,7 @@ Special Projects Analyst @ University of the Pacific
 
 ### Projects:
 
-Analyzing the Impact of Google BARD on Search Engine Dynamics
+# Analyzing the Impact of Google BARD on Search Engine Dynamics
 
 Abstract: 
 This report examines the impact of Google's introduction of Bard, a text generation model powered by LaMDA large language model, on the company's revenue generation. With Google's traditional revenue source being advertising, Bard was perceived as a revolutionary technology that could potentially disrupt the search industry and shift the balance of power away from Google search. However, Bard's focus on generating creative and expressive content rather than surfacing links to answers could indicate that it might not directly compete with Google's search business. Instead, it may find applications in fields such as literature, advertising, and education. The report investigates whether Bard is an innovative addition to Google's suite of AI-powered products or whether it will have a negative impact on Google's search business revenue.
@@ -40,8 +40,7 @@ Objectives:
 - Market Risk for the Release of Google Bard Chabot
 - Comparison between Google Search and Google Bard.
 
-  Achievements:
-
+Achievements:
 - Conducted an exhaustive analysis of Google's traditional search engine usage/revenue against a generative AI-based large language model, BARD.
 - Examined user patterns, assessed potential future revenue streams, identified market risks associated with Bard's release using Mixpanel, SEMrush and SWOT 
   analysis yielding High-end estimate 15-25% shift within specific user segments.
@@ -50,11 +49,49 @@ Objectives:
 - Report includes optimized mitigation techniques for Bard's Limitations and Google's Adaptability potentially enhancing the user experience and mitigating revenue 
   losses focusing CTRs.
 
-  Visualizations:
-  ![](https://github.com/neharamachandar/neharamachandar.github.io/blob/main/images/G%20vs%20Gb.png)
-  ![](https://github.com/neharamachandar/neharamachandar.github.io/blob/main/images/1.png)
-  ![](https://github.com/neharamachandar/neharamachandar.github.io/blob/main/images/2.png)
-  ![](https://github.com/neharamachandar/neharamachandar.github.io/blob/main/images/Picture5.png)
+  # Unraveling the Dynamics of Student Retention
+
+Abstract:
+Student attrition poses a significant challenge for higher education institutions, impacting both individual students' educational outcomes and institutional performance. This project aims to identify and address the factors that contribute to high rates of student dropout and transfer, with the goal of improving student success and enhancing institutional effectiveness. By conducting a comprehensive literature review, the project will establish a thorough understanding of existing research and theories on student attrition, focusing on factors such as academic preparedness, financial constraints, social integration, and institutional support. The project begins by conducting an analysis on various factors that have been identified in previous studies, such major, ethnicity, region, various year GPA, final standing etc., are analysed in depth to establish a comprehensive framework. The project's outcomes have direct implications for higher education institutions seeking to improve graduation rates and student retention. By understanding and addressing the factors contributing to retention, institutions can implement evidence-based interventions to foster student success. Moreover, the findings will guide policy changes, resource allocation, and program development, ultimately enhancing institutional effectiveness Hence leading to students’ retention in the university.
+
+
+METHODOLOGY
+  Statistical tools
+- Statistics were crucial in figuring out how the various components related to one another.
+- Statistical techniques were applied to the available student’s data to analyse it and develop
+  conclusions. The data files were supplied, displayed, and analysed using statistical techniques
+  like PivotTable in Microsoft Excel spreadsheets.
+- The relationship between the selected elements was also shown using bar graphs.
+  
+  Quantitative Research Methodology
+- It was utilized to comprehend the data more thoroughly before inferences about the
+  retention and graduation rates were made.
+- In order to better grasp the theory behind the dataset, quantitative research methodology
+  refers to the utilization of data and facts.
+- It was crucial to use it since judgments about the third-year retention rate and fourth-year
+  graduation rate needed to be made.
+
+  Analytical Methodology
+- Facts were used in this method to support the rationale for the study and to assess the data
+  that was presented.
+- The variables included in the quantitative research methodology were also utilised by
+  analytical techniques.
+- In the article, percentages were produced to comprehend the separation between the
+  segments after counting the data for a factor like a Gender, Major, or Athlete was carefully
+  evaluate.
+
+Achievements: 
+- Analyzed student retention data from multiple institutions, uncovering financial implications of dropouts on both universities and students with suggested 
+  precautionary measures by using oracle Business intelligence tools.
+- Investigated how major, gender, and athlete status influence retention and graduation rates, contributing to understanding the underlying causes of student 
+  attrition findings show attrition rates of 25-35% for STEM majors, humanities (15-25%) and retention rate of athletes around 85%.
+- Utilized data analysis tools and statistical methods like Spearman's rank correlation to identify significant relationships between variables, documented 
+  proficient actionable retention measures to be taken.
+
+# Predicting Customer Lifetime Value (CLV) in Retail Using Data Analytics
+
+
+
   
 
   
