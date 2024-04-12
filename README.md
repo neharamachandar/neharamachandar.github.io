@@ -25,7 +25,7 @@ Masters in Business Analytics
 - Delivered key findings to 10+ stakeholders in clear and engaging reports and presentations using, Use Cases, Dashboards and Mitigation Strategies.
 - Authored a comprehensive guide for greenhouse gas inventory using SIMAP, potentially saving future analysts 8 hours and showcasing subject matter expertise.
 
-### Projects:
+# Projects:
 
 # Analyzing the Impact of Google BARD on Search Engine Dynamics
 
@@ -46,14 +46,13 @@ Achievements:
   analysis yielding High-end estimate 15-25% shift within specific user segments.
 - Explored how Bard’s direct answer capabilities could disrupt Google's ad-driven business model by implementing content-based filtering, NLP algorithms and K- 
   means clustering (CRM) rendered results suggest direct answers of bard can reduce click-through rates (CTRs) by up to 50%.
-- Report includes optimized mitigation techniques for Bard's Limitations and Google's Adaptability potentially enhancing the user experience and mitigating revenue 
-  losses focusing CTRs.
+- Report includes optimized mitigation techniques for Bard's Limitations and Google's Adaptability potentially enhancing the user experience and mitigating   
+  revenue losses focusing CTRs.
 
-  # Unraveling the Dynamics of Student Retention
+# Unraveling the Dynamics of Student Retention
 
 Abstract:
 Student attrition poses a significant challenge for higher education institutions, impacting both individual students' educational outcomes and institutional performance. This project aims to identify and address the factors that contribute to high rates of student dropout and transfer, with the goal of improving student success and enhancing institutional effectiveness. By conducting a comprehensive literature review, the project will establish a thorough understanding of existing research and theories on student attrition, focusing on factors such as academic preparedness, financial constraints, social integration, and institutional support. The project begins by conducting an analysis on various factors that have been identified in previous studies, such major, ethnicity, region, various year GPA, final standing etc., are analysed in depth to establish a comprehensive framework. The project's outcomes have direct implications for higher education institutions seeking to improve graduation rates and student retention. By understanding and addressing the factors contributing to retention, institutions can implement evidence-based interventions to foster student success. Moreover, the findings will guide policy changes, resource allocation, and program development, ultimately enhancing institutional effectiveness Hence leading to students’ retention in the university.
-
 
 Methodology
   Statistical tools
