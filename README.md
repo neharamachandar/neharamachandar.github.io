@@ -27,7 +27,8 @@ Masters in Business Analytics
 
 # Projects:
 
-![Booklogo](/neharamachandar.github.io/images/2.png)
+<img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/2458928f-8453-4c68-965a-9fbbff9fc4c6" width="300" height="250">
+
 
 # Analyzing the Impact of Google BARD on Search Engine Dynamics
 
