@@ -55,7 +55,7 @@ Abstract:
 Student attrition poses a significant challenge for higher education institutions, impacting both individual students' educational outcomes and institutional performance. This project aims to identify and address the factors that contribute to high rates of student dropout and transfer, with the goal of improving student success and enhancing institutional effectiveness. By conducting a comprehensive literature review, the project will establish a thorough understanding of existing research and theories on student attrition, focusing on factors such as academic preparedness, financial constraints, social integration, and institutional support. The project begins by conducting an analysis on various factors that have been identified in previous studies, such major, ethnicity, region, various year GPA, final standing etc., are analysed in depth to establish a comprehensive framework. The project's outcomes have direct implications for higher education institutions seeking to improve graduation rates and student retention. By understanding and addressing the factors contributing to retention, institutions can implement evidence-based interventions to foster student success. Moreover, the findings will guide policy changes, resource allocation, and program development, ultimately enhancing institutional effectiveness Hence leading to students’ retention in the university.
 
 
-METHODOLOGY
+Methodology
   Statistical tools
 - Statistics were crucial in figuring out how the various components related to one another.
 - Statistical techniques were applied to the available student’s data to analyse it and develop
@@ -89,6 +89,18 @@ Achievements:
   proficient actionable retention measures to be taken.
 
 # Predicting Customer Lifetime Value (CLV) in Retail Using Data Analytics
+
+Abstract:
+This retail analytics study uses transaction data to predict customer lifetime value (CLV) and identify loyal customers. By analyzing purchase frequency and amount, the report offers insights to improve customer retention, optimize product assortments, and allocate resources across different store types. Visualization tools are used to present actionable findings for retail businesses. This research contributes to the understanding of customer loyalty in retail and provides practical guidance for retailers to improve customer relationships and refine product offerings. The limitations of the study are acknowledged, and potential avenues for future research are suggested. This project serves as a valuable resource for retail professionals seeking to navigate the complexities of customer relationships and optimize store performance.
+
+Objectives:
+
+
+
+
+
+
+
 
 
 
