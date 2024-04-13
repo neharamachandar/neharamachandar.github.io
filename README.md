@@ -96,6 +96,16 @@ Achievements:
 - Utilized data analysis tools and statistical methods like Spearman's rank correlation to identify significant relationships between variables, documented 
   proficient actionable retention measures to be taken.
 
+Visualiztions:
+
+<img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/2458928f-8453-4c68-965a-9fbbff9fc4c6" width="300" height="250">
+<img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/b1a0bfde-c423-42fd-beeb-22b02e5d92ac" width="300" height="250">
+<img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/35f17337-df8f-4e45-a5b6-39715c68016a" width="300" height="250">
+<img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/0b2788f1-05be-48ac-bcc7-f43ae6414c64" width="300" height="250">
+<img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/49e660c9-d642-4e4f-8636-5d592f5cb8cc" width="300" height="250">
+<img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/392d6a1c-f415-4823-9299-9d8fe0610767" width="300" height="250">
+
+
 # Predicting Customer Lifetime Value (CLV) in Retail Using Data Analytics
 
 Abstract:
