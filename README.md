@@ -27,8 +27,6 @@ Masters in Business Analytics
 
 # Projects:
 
-<img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/2458928f-8453-4c68-965a-9fbbff9fc4c6" width="300" height="250">
-
 
 # Analyzing the Impact of Google BARD on Search Engine Dynamics
 
@@ -51,6 +49,14 @@ Achievements:
   means clustering (CRM) rendered results suggest direct answers of bard can reduce click-through rates (CTRs) by up to 50%.
 - Report includes optimized mitigation techniques for Bard's Limitations and Google's Adaptability potentially enhancing the user experience and mitigating   
   revenue losses focusing CTRs.
+
+  Visualizations:
+
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/005ef34a-d3d3-4914-99e4-b055b8eb6f64" width="300" height="250">
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/12110fcf-cc23-41b1-b47b-e9b94e55feac" width="300" height="250">
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/c64d674c-5e8a-44a2-8f77-c0e7ebef0234" width="300" height="250">
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/6ee3b8c3-b34d-4615-b775-8476e98b22eb" width="300" height="250">
+    
 
 # Unraveling the Dynamics of Student Retention
 
