@@ -98,7 +98,6 @@ Achievements:
 
 Visualiztions:
 
-<img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/2458928f-8453-4c68-965a-9fbbff9fc4c6" width="300" height="250">
 <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/b1a0bfde-c423-42fd-beeb-22b02e5d92ac" width="300" height="250">
 <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/35f17337-df8f-4e45-a5b6-39715c68016a" width="300" height="250">
 <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/0b2788f1-05be-48ac-bcc7-f43ae6414c64" width="300" height="250">
@@ -125,15 +124,57 @@ Achievements:
 - Built a classification model to identify 25% of loyal customers with 98% accuracy, supporting targeted marketing campaigns and 17% sales increase through 
   product assortment optimization and 11% CLV growth through targeted marketing.
 
-  Visualizations:
+Visualizations:
 
   <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/dfd762d3-d17c-43f9-ae24-48052fbb53b0" width="300" height="250">
   <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/d3091a56-0057-46af-ab74-5a9e1ef35700" width="300" height="250">
   <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/fb5a6a5a-77d3-4770-8449-6c3902da0a3a" width="300" height="250">
 
-  Dashboard:
+Dashboard:
   
   <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/2240ef6e-2ba9-4cb4-8144-a30cf2e07dd0" width="300" height="250">
+
+
+# Aniflix Optimizing Viewer Engagement through Data-driven Strategies
+
+Abstract:
+
+Aniflix, an anime-based OTT platform, is seeking to optimize its resource allocation and content strategy to maximize audience engagement and viewership. The company possesses a vast database of information about anime series, including their genres, studios, ratings, and popularity metrics. The goal is to leverage this data to identify the most promising genres, studios, or content types to invest in, while also uncovering the factors that contribute most significantly to high ratings and popularity among viewers.
+
+Objectives:
+
+- Build a diverse platform as a go-to for anime enthusiasts, laying the foundation for future growth and attract and engage early adopters by offering unique and 
+  captivating content,
+- Differentiate Aniflix from other OTT platforms by strategically selecting genres and content types that set it apart in the anime streaming landscape.
+- Prioritize user experience to create a seamless, user-friendly platform that encourages user retention and positive word-of-mouth recommendations.
+- Make strategic content investments with a focus on optimizing limited resources to maximize the impact on user acquisition and satisfaction.
+- Embrace an iterative approach, constantly adapting content strategies based on early user feedback and market trends to improve offerings over time.
+- Actively engage with the community to understand their preferences, create a sense of belonging, and foster a dedicated user community around Aniflix.
+- Forge strategic partnerships with emerging studios and creators, leveraging their potential to grow alongside Aniflix as a new platform in the industry.
+- Build brand awareness and recognition by consistently delivering high-quality, curated content that aligns with the expectations of the target audience.
+- Implement data-driven decision-making to guide growth strategies, using analytics to identify emerging trends and capitalize on opportunities unique to a new 
+  platform.
+- Generate anticipation and excitement around Aniflix's launch through strategic marketing and promotion, creating a buzz within the anime community.
+
+  Achievements:
+
+- Leveraged Aniflix's vast anime data to optimize content strategy and resource allocation for viewer engagement.
+- Analyzed genre, studio, and popularity metrics to identify promising investment targets and key drivers of audience preference using Google BigQuery and 
+  Matplotlib and pandas.
+- Uncovered key factors influencing high ratings, enabling targeted content acquisition and promotion strategies using regression analysis with findings 
+  suggesting 89.3% overall Strategy Optimization and demonstrated best data driven insights to recommend investment based on strong engagement and popularity 
+  potential.
+- Idea of Introducing a Floating Realtime Graph on Aniflix App:  Viewers can see the most trending animes currently so if in case they check the trending anime 
+  through all our analysis they get the plot, duration and if its completely aired may be also if they are in mood for that genre.
+
+  Dashboard:
+
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/0ff5973a-68ee-4a2f-9fbb-f8505e9b55c9">
+
+
+
+
+
 
 
 
