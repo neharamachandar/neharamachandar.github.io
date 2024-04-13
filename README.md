@@ -125,6 +125,16 @@ Achievements:
 - Built a classification model to identify 25% of loyal customers with 98% accuracy, supporting targeted marketing campaigns and 17% sales increase through 
   product assortment optimization and 11% CLV growth through targeted marketing.
 
+  Visualizations:
+
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/dfd762d3-d17c-43f9-ae24-48052fbb53b0" width="300" height="250">
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/d3091a56-0057-46af-ab74-5a9e1ef35700" width="300" height="250">
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/fb5a6a5a-77d3-4770-8449-6c3902da0a3a" width="300" height="250">
+
+  Dashboard:
+  
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/2240ef6e-2ba9-4cb4-8144-a30cf2e07dd0" width="300" height="250">
+
 
 
 
