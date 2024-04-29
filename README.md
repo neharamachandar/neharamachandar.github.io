@@ -167,9 +167,18 @@ Objectives:
 - Idea of Introducing a Floating Realtime Graph on Aniflix App:  Viewers can see the most trending animes currently so if in case they check the trending anime 
   through all our analysis they get the plot, duration and if its completely aired may be also if they are in mood for that genre.
 
-  Dashboard:
+  Visualizations:
 
   <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/0ff5973a-68ee-4a2f-9fbb-f8505e9b55c9">
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/d9f294d3-eafd-4c3c-880e-1a603e83b4e5">
+  <img src="https://github.com/neharamachandar/neharamachandar.github.io/assets/165216259/e02b34a1-8f99-413a-9008-538dd7bdefd4">
+
+
+
+  
+
+  
+  
 
 
 
